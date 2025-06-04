@@ -1,0 +1,2 @@
+# AssessmentAgent specific requirements (if any)
+# Common dependencies are in backend/requirements.txt

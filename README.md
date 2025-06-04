@@ -1,2 +1,9 @@
-# ai-tutor
-An AI-driven tutor that guides students through learning topics by assessing their level, adapting questions, explaining concepts, and giving practice problems - just like a real tutor.
+# AI Tutoring System
+
+This project is a multi-agent AI tutoring system.
+
+## Structure
+- `frontend/`: Contains the React frontend application.
+- `backend/`: Contains the Python FastAPI agent microservices.
+- `docs/`: Contains design documents, setup guides, etc.
+- `scripts/`: Contains utility scripts (e.g., for database seeding, testing).
